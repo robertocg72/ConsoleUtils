@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.IO;
+global using System.Linq;
+global using System.Text.Json;
+global using System.Threading.Tasks;
+global using ConsoleUtils.SendGrid;
+global using ConsoleUtils.SendGrid.Responses.GetDynamicEmailTemplateResponse;
+global using ConsoleUtils.SendGrid.Responses.GetTemplatesResponse;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Options;
+global using SendGrid;
